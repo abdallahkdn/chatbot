@@ -89,5 +89,5 @@ function App() {
     </div>
   )
 }
-const elementName = 'hello-chaT-GPT';
+const elementName = 'hello-chat-gpt';
 export default App
