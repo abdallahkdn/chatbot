@@ -91,3 +91,4 @@ function App() {
 }
 const elementName = 'hello-chat-gpt';
 export default App
+customElements.define("hello-chat-gpt", PLUGIN);
